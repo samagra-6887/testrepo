@@ -1,2 +1,2 @@
 # testrepo
-this is my first repository and it is on test condition
+this is my first repository and it is in testing condition and will be available soon for all 
